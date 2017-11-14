@@ -1,5 +1,6 @@
 # WavePointsCpp
-C++ Implementation of my visual demo for languages/frameworks using SFML
+C++ Implementation of my visual demo for languages/frameworks using SFML.
+Tested on Linux.
 
 
 Build command:
